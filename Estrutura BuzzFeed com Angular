@@ -1,0 +1,18 @@
+└── src
+    ├── app
+    │   ├── app-routing.module.ts
+    │   ├── app.component.html
+    │   ├── app.component.scss
+    │   ├── app.component.spec.ts
+    │   ├── app.component.ts
+    │   └── app.module.ts
+    ├── assets
+    │   └── images
+    │       └── buzzfeed-logo.png
+    ├── environments
+    │   ├── environment.prod.ts
+    │   └── environment.ts
+    ├── index.html
+    ├── main.ts
+    ├── polyfills.ts
+    └── styles.scss
